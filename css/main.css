@@ -1674,6 +1674,7 @@ header .logo a {
 }
 
 .info-entry:last-child .info-entry-content {
+	padding-top: 5rem;
 	padding-bottom: 13.2rem;
 }
 

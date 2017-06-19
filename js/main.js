@@ -244,10 +244,13 @@
 	var mailChimpURL = 'http://famlink.us15.list-manage.com/subscribe/post?u=1cb0e84938ec5f4d13e774c73&id=de45c9b7c6'
 
 	$('#mc-form').ajaxChimp({
-
 		language: 'es',
 	   url: mailChimpURL
+	});
 
+	$('#mc-form-2').ajaxChimp({
+		language: 'es',
+		 url: mailChimpURL
 	});
 
 	// Mailchimp translation
