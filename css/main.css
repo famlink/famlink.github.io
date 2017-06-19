@@ -1597,7 +1597,7 @@ header .logo a {
 	position: absolute;
 	left: 50%;
 	top: 0;
-	background: rgba(63, 80, 96, 0.15);
+	/*background: rgba(63, 80, 96, 0.15);*/
 }
 
 .info-entry .info-entry-content {
