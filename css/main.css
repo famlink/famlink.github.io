@@ -1643,7 +1643,7 @@ header .logo a {
 
 .info-entry-content {
 	padding-top: 13.2rem;
-	padding-bottom: 10.8rem;
+	padding-bottom: 5rem;
 }
 
 .info-entry-content h5 {
@@ -2117,7 +2117,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #testimonials {
 	padding: 12rem 0 10.2rem;
-	background: #FFFFFF;
+	background: #F9CF51;
 	text-align: center;
 }
 
@@ -2792,4 +2792,8 @@ footer a:active {
 	text-transform: uppercase;
 	letter-spacing: 0.15rem;
 	margin-left: 0.5em;
+}
+
+.body-light {
+	color: rgba(255, 255, 255, 0.6);
 }
