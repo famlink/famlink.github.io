@@ -85,7 +85,7 @@ body {
  * ------------------------------------------------------------------- */
 a,
 a:visited {
-	color: #ed254d;
+	color: #2e86ab;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -1675,7 +1675,7 @@ header .logo a {
 
 .info-entry:last-child .info-entry-content {
 	padding-top: 5rem;
-	padding-bottom: 13.2rem;
+	padding-bottom: 20rem;
 }
 
 /* -------------------------------------------------------------------
@@ -2121,10 +2121,15 @@ header .logo a {
 	text-align: center;
 }
 
+#testimonials .testimonial-content {
+	max-width: 800px;
+}
+
 #testimonials h2 {
 	margin-bottom: 3.6rem;
 	padding-bottom: 3.6rem;
 	position: relative;
+	font-family: "Nunito", sans-serif;
 }
 
 #testimonials h2::after {
@@ -2319,7 +2324,7 @@ header .logo a {
  *
  * ------------------------------------------------------------------- */
 #subscribe {
-	background: #00132b;
+	background: #2e86ab;
 	padding: 10.2rem 0 6rem;
 	text-align: center;
 	color: #FFFFFF;
@@ -2371,7 +2376,7 @@ header .logo a {
 }
 
 #subscribe h2 {
-	color: white;
+	color: #f9cf51;
 }
 
 /* -------------------------------------------------------------------
@@ -2456,7 +2461,7 @@ footer a:active {
 }
 
 .footer-social-wrap {
-	background: #111;
+	background: #00132b;
 }
 
 .footer-social-list {
