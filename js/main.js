@@ -248,12 +248,7 @@
 	   url: mailChimpURL
 	});
 
-	$('#mc-form-2').ajaxChimp({
-		language: 'es',
-		 url: mailChimpURL
-	});
-
-	$('#mc-form-2').click(function() {
+	$('#mc-form').click(function() {
 		fbq('track', 'Lead', {
 		value: 1.00,
 		currency: 'USD'

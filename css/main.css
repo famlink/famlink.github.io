@@ -2329,36 +2329,36 @@ header .logo a {
 	max-width: 780px;
 }
 
-#subscribe #mc-form-2 {
+#subscribe #mc-form {
 	margin-top: 4.2rem;
 	margin-bottom: 0;
 	text-align: center;
 }
 
-#subscribe #mc-form-2 input[type="email"] {
+#subscribe #mc-form input[type="email"] {
 	width: 100%;
 	text-align: left;
 	color: rgba(255, 255, 255, 0.7);
 	background: rgba(0, 0, 0, 0.3);
 }
 
-#subscribe #mc-form-2 input[type="email"]:focus {
+#subscribe #mc-form input[type="email"]:focus {
 	background: rgba(0, 0, 0, 0.5);
 	color: white;
 }
 
-#subscribe #mc-form-2 .button {
+#subscribe #mc-form .button {
 	margin: 0;
 	width: 100%;
 	background: #FFFFFF;
 }
 
-#subscribe #mc-form-2 .button:hover,
-#subscribe #mc-form-2 .button:focus {
+#subscribe #mc-form .button:hover,
+#subscribe #mc-form .button:focus {
 	background: #f9da4f;
 }
 
-#subscribe #mc-form-2 label {
+#subscribe #mc-form label {
 	color: #FFFFFF;
 }
 
