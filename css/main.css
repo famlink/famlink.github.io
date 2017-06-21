@@ -1023,7 +1023,7 @@ input::-moz-focus-inner {
 }
 
 .section-intro h2 {
-	font-family: "nunito", serif;
+	font-family: "nunito", sans-serif;
 	font-size: 4.8rem;
 	line-height: 1.25;
 	margin-bottom: 1.2rem;
@@ -1384,7 +1384,7 @@ header .logo a {
 }
 
 #intro h1 {
-	font-family: "Nunito", serif;
+	font-family: "Nunito", sans-serif;
 	font-size: 6rem;
 	line-height: 1.267;
 	color: #F9CF51;
@@ -1655,7 +1655,7 @@ header .logo a {
 }
 
 .info-entry-content h2 {
-	font-family: "nunito", serif;
+	font-family: "nunito", sans-serif;
 	font-size: 3.7rem;
 	line-height: 1.216;
 	padding-bottom: 1.5rem;
@@ -1943,7 +1943,7 @@ header .logo a {
 }
 
 .pricing-content .price-block .plan-price {
-	font-family: "nunito", serif;
+	font-family: "nunito", sans-serif;
 	color: #001835;
 	font-size: 6.5rem;
 	line-height: 1;
@@ -2264,7 +2264,7 @@ header .logo a {
 }
 
 #download h2 {
-	font-family: "Nunito", serif;
+	font-family: "Nunito", sans-serif;
 	font-size: 4.8rem;
 	line-height: 1.25;
 	margin-bottom: 1.8rem;
