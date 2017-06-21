@@ -253,6 +253,13 @@
 		 url: mailChimpURL
 	});
 
+	$('#mc-form-2').click(function() {
+		fbq('track', 'Lead', {
+		value: 1.00,
+		currency: 'USD'
+		});
+	})
+
 	// Mailchimp translation
 	//
 	//  Defaults:
