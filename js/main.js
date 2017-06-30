@@ -253,6 +253,9 @@
 		value: 1.00,
 		currency: 'USD'
 		});
+
+		// google analytics
+		ga('send', 'event', 'form', 'submit', 'email signed up');
 	})
 
 	// Mailchimp translation
