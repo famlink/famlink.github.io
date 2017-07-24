@@ -2324,8 +2324,9 @@ header .logo a {
  *
  * ------------------------------------------------------------------- */
 #subscribe {
-	background: #2e86ab;
-	padding: 10.2rem 0 6rem;
+	background-color: #2e86ab;
+	background: linear-gradient(180deg, #2e86ab 50%, #80D0C7 100%);
+	padding: 18rem 0 6rem;
 	text-align: center;
 	color: #FFFFFF;
 }
@@ -2501,7 +2502,7 @@ footer a:active {
 
 .footer-info a,
 .footer-info a:visited {
-	color: #292c35;
+	/*color: #292c35;*/
 }
 
 .footer-info a:hover,
